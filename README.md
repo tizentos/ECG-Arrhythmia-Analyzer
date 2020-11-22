@@ -2,7 +2,6 @@
 
 1.The ECG Analyzer is able to calculate the heart rate of a digitized ECG signal
 
-
 2. The digitized ECG signal used in this project can be downloaded from the MIT-BIH Arrhythmia Database 
 
 3. The basic workflow of the analyzer is; Signal acquisition and pre-processing -> Signal filtering and baseline noise-removal -> Feature extraction(heart rate, PQRST wave exrtaction and statistical property extraction) -> Neural Network training -> Classification
