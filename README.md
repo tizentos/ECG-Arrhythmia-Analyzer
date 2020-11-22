@@ -1,6 +1,6 @@
 # ECG-Arrhythmia-Analyzer based on my final year project in college.
 
-1.The ECG Analyzer is able to calculate the heart rate of a digitized ECG signal
+ 1.The ECG Analyzer is able to calculate the heart rate of a digitized ECG signal
 
 2. The digitized ECG signal used in this project can be downloaded from the MIT-BIH Arrhythmia Database 
 
